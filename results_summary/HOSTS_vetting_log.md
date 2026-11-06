@@ -30,3 +30,26 @@
 | 302381397 | 0.7076 | ~370 ppm | rejected | secondary 4.6σ, weak |
 | 408310006 | 15.1614 | ~370 ppm | not new | in eumemic list (WASP-166 host) |
 | 438702139 | 0.5546 | ~40 ppm | rejected | equal-depth phase-0.5 signal (9σ), high shuffle scatter: variability (HIP 65426, bright young star) |
+| 154940895 | 8.6831 | ~780 ppm | not new | in eumemic/TCE lists |
+| 158623531 | 2.0028 | ~340 ppm | not new | in eumemic/TCE lists |
+| 167654347 | 28.3448 | ~2,100 ppm | not new | in eumemic/TCE lists |
+| 232025086 | 1.9876 | ~60 ppm | not new | in eumemic/TCE lists |
+| 237071229 | 4.8139 | ~220 ppm | not new | in eumemic/TCE lists |
+| 264223828 | 0.5403 | ~160 ppm | not new | in eumemic/TCE lists |
+| 273985865 | 29.6190 | ~370 ppm | not new | in eumemic/TCE lists |
+| 342449055 | 2.3371 | ~450 ppm | not new | in eumemic/TCE lists |
+| 354944123 | 18.9082 | ~1,000 ppm | not new | in eumemic candidates.csv |
+| 356158613 | 4.8673 | ~390 ppm | not new | in eumemic/TCE lists |
+| 359271092 | 2.4266 | ~70 ppm | not new | in eumemic/TCE lists |
+| 364186197 | 2.3813 | ~60 ppm | not new | in TESS EB catalogue |
+| 453260209 | 4.7172 | ~360 ppm | not new | in eumemic/TCE lists |
+| 462553953 | 1.1773 | ~120 ppm | not new | in eumemic/TCE lists |
+| 468979441 | 1.9527 | ~150 ppm | not new | in eumemic/TCE lists |
+| 470127886 | 2.0730 | ~140 ppm | not new | in eumemic/TCE lists |
+| 48031665 | 0.5087 | ~310 ppm | rejected | secondary −9.4σ |
+| 100100827 | 0.6276 | ~130 ppm | rejected | in TESS EB catalogue; secondary 33.6σ |
+| 261867566 | 0.5124 | ~140 ppm | rejected | secondary −9σ |
+| 321857016 | 0.5397 | ~160 ppm | rejected | in TESS EB catalogue; secondary 6.6σ |
+| 341420329 | 0.6661 | ~180 ppm | rejected | secondary 5.4σ |
+| 386899832 | 0.6033 | ~40 ppm | rejected | no list match, but 36 ppm, secondary −6.8σ, shuffle std 4.6: variability |
+| 467666275 | 0.5437 | ~40 ppm | rejected | secondary 5.1σ |
